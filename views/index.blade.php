@@ -196,8 +196,6 @@
       <h1 class="title grey-text text-lighten-3">Wlofren</h1>
 
       <blockquote class="flow-text">A php micro framework.</blockquote>
-
-
     </span>
 </main>
 
